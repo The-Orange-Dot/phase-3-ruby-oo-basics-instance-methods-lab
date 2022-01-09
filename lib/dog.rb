@@ -7,3 +7,7 @@ class Dog
     puts 'The Dog is sitting'
   end
 end
+
+mocha = Dog.new
+
+mocha.bark
